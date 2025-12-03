@@ -1,0 +1,21 @@
+# 
+# Palette 2 is reserved for the freezerator pepper pizza skin overlay
+# Palettes 12, 13 and 14 are reserved for patterns and Fake Peppino
+# Every other palette (AFTER the default one) will be automatically added to the dresser
+# adding _mix to a palette will set the first part of the combination name when mixing
+# ------------------
+lang = "en"
+
+dresser_MY1 = "My Character"
+dresser_MY1D = "What I want!"
+
+dresser_MY3 = "Shirt 1"
+dresser_MY3D = "Something different"
+dresser_MY4 = "Shirt 2"
+dresser_MY4D = "Something more different."
+dresser_MY3_mix = "Shirty"
+dresser_MY4_mix = "Shirty-tooey"
+
+patternMY_1 = "Pattern Test"
+patternMY_1D = " Thats cool, it works!"
+
