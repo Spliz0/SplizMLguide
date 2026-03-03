@@ -15,6 +15,7 @@
 	"_comment2":{"the following sprites are put in the 'misc' folder":1},
 	"spr_breakdancenotes":{"images":2,"speed":0},
 	"spr_beatbox":{"images":1},
+	"spr_shirt":{"images":1},
 	"spr_vsplayer":{"images":1},
 	"spr_vstitle":{"images":1},
 	"spr_vsplayershadow":{"images":1},
@@ -550,3 +551,4 @@
 	
 	
 }
+
